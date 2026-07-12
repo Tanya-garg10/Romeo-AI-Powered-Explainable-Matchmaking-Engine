@@ -1,0 +1,817 @@
+[
+    {
+        "id": 1,
+        "name": "Aria Sharma",
+        "age": 27,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Mumbai",
+        "profession": "UX Designer",
+        "education": "Bachelor's in Design",
+        "hobbies": [
+            "painting",
+            "yoga",
+            "travel",
+            "cooking",
+            "photography"
+        ],
+        "personality": "INFJ",
+        "values": [
+            "creativity",
+            "empathy",
+            "growth",
+            "family"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi",
+            "Marathi"
+        ],
+        "bio": "Creative soul who finds beauty in everyday moments. I design experiences that make people smile — and I want a relationship that does the same. I need depth, not just surface chemistry. Looking for someone who values presence over performance.",
+        "dealBreakers": [
+            "smoking",
+            "dishonesty",
+            "no ambition",
+            "emotionally unavailable"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Aria&backgroundColor=b6e3f4"
+    },
+    {
+        "id": 2,
+        "name": "Rohan Mehta",
+        "age": 29,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Mumbai",
+        "profession": "Software Engineer",
+        "education": "B.Tech Computer Science",
+        "hobbies": [
+            "gaming",
+            "hiking",
+            "cooking",
+            "reading",
+            "travel"
+        ],
+        "personality": "INTJ",
+        "values": [
+            "ambition",
+            "logic",
+            "independence",
+            "loyalty"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "I build systems for a living and I approach life the same way — methodical but always optimizing. I don't do small talk or drama. I do deep conversations, long hikes, and honest disagreements. Not looking for someone to complete me; looking for someone to build with.",
+        "dealBreakers": [
+            "smoking",
+            "lack of ambition",
+            "excessive social media",
+            "neediness"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rohan&backgroundColor=c0aede"
+    },
+    {
+        "id": 3,
+        "name": "Priya Nair",
+        "age": 25,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Bangalore",
+        "profession": "Data Scientist",
+        "education": "M.Sc Statistics",
+        "hobbies": [
+            "reading",
+            "dancing",
+            "yoga",
+            "travel",
+            "music"
+        ],
+        "personality": "ENFP",
+        "values": [
+            "freedom",
+            "creativity",
+            "honesty",
+            "adventure"
+        ],
+        "relationshipGoal": "casual-to-serious",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi",
+            "Malayalam"
+        ],
+        "bio": "I chase patterns in data by day and dance in my living room at midnight. I'm told I'm 'a lot' — I prefer the term 'fully alive.' I want someone who can hold space for my chaos without trying to fix it. No rigid timelines, no pressure — just real.",
+        "dealBreakers": [
+            "controlling behavior",
+            "smoking",
+            "no sense of humor",
+            "marriage pressure"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Priya&backgroundColor=ffdfbf"
+    },
+    {
+        "id": 4,
+        "name": "Karan Patel",
+        "age": 31,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Bangalore",
+        "profession": "Product Manager",
+        "education": "MBA",
+        "hobbies": [
+            "cycling",
+            "photography",
+            "travel",
+            "reading",
+            "cooking"
+        ],
+        "personality": "ENTP",
+        "values": [
+            "innovation",
+            "honesty",
+            "debate",
+            "growth"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Gujarati"
+        ],
+        "bio": "I debate ideas for sport and apologize sincerely when I'm wrong — which is rare, but I do it gracefully. I build products by day and interesting arguments by night. Looking for someone who can push back, hold their own, and then cook dinner with me after.",
+        "dealBreakers": [
+            "dishonesty",
+            "conflict avoidance",
+            "smoking",
+            "no intellectual curiosity"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Karan&backgroundColor=d1d4f9"
+    },
+    {
+        "id": 5,
+        "name": "Meera Reddy",
+        "age": 26,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Hyderabad",
+        "profession": "Architect",
+        "education": "B.Arch",
+        "hobbies": [
+            "sketching",
+            "travel",
+            "yoga",
+            "cooking",
+            "classical music"
+        ],
+        "personality": "ISFJ",
+        "values": [
+            "family",
+            "stability",
+            "tradition",
+            "empathy"
+        ],
+        "relationshipGoal": "marriage",
+        "smoking": false,
+        "drinking": false,
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi",
+            "Telugu"
+        ],
+        "bio": "I design spaces that hold memories. I believe in building slowly and well — whether it's a home or a relationship. I'm deeply rooted in family and tradition, but I'm not rigid. I just know what I want: someone steady, kind, and ready to build a life.",
+        "dealBreakers": [
+            "smoking",
+            "drinking heavily",
+            "not wanting children",
+            "career obsession over family"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Meera&backgroundColor=ffd5dc"
+    },
+    {
+        "id": 6,
+        "name": "Arjun Singh",
+        "age": 28,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Delhi",
+        "profession": "Investigative Journalist",
+        "education": "MA Mass Communication",
+        "hobbies": [
+            "writing",
+            "travel",
+            "street photography",
+            "reading",
+            "running"
+        ],
+        "personality": "ENFJ",
+        "values": [
+            "truth",
+            "justice",
+            "empathy",
+            "freedom"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Punjabi"
+        ],
+        "bio": "I've covered conflict zones and come home to cook dal. Journalism taught me that the truth is always more interesting than the story you expect. Looking for someone with opinions they're willing to defend — and a soft heart underneath the hard takes.",
+        "dealBreakers": [
+            "closed-mindedness",
+            "dishonesty",
+            "no empathy",
+            "excessive materialism"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Arjun&backgroundColor=b6e3f4"
+    },
+    {
+        "id": 7,
+        "name": "Neha Gupta",
+        "age": 24,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Pune",
+        "profession": "Marketing Manager",
+        "education": "BBA Marketing",
+        "hobbies": [
+            "fitness",
+            "travel",
+            "cooking",
+            "photography",
+            "clubbing"
+        ],
+        "personality": "ESFP",
+        "values": [
+            "fun",
+            "loyalty",
+            "ambition",
+            "living in the moment"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "I run marketing campaigns and half-marathons. My weekends are non-negotiable — I'm either on a trail or at a rooftop bar, and I'm okay with both in the same weekend. I need someone who matches my pace and doesn't need constant reassurance to feel secure.",
+        "dealBreakers": [
+            "possessiveness",
+            "laziness",
+            "anti-social behavior",
+            "no fitness at all"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Neha&backgroundColor=c0aede"
+    },
+    {
+        "id": 8,
+        "name": "Vikram Nair",
+        "age": 30,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Mumbai",
+        "profession": "Investment Banker",
+        "education": "CA + MBA Finance",
+        "hobbies": [
+            "chess",
+            "reading",
+            "travel",
+            "fitness",
+            "wine appreciation"
+        ],
+        "personality": "ISTJ",
+        "values": [
+            "stability",
+            "financial security",
+            "family",
+            "discipline"
+        ],
+        "relationshipGoal": "marriage",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Malayalam"
+        ],
+        "bio": "My work is brutal and I love it. I wake up at 5am, close deals by noon, and cook elaborate meals on Sundays. I'm not looking for someone who needs me to be spontaneous every day — I'm looking for someone who appreciates consistency and can build something real.",
+        "dealBreakers": [
+            "financial irresponsibility",
+            "smoking",
+            "career instability",
+            "wanting to stay childfree"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Vikram&backgroundColor=ffdfbf"
+    },
+    {
+        "id": 9,
+        "name": "Zara Khan",
+        "age": 26,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Bangalore",
+        "profession": "AI Researcher",
+        "education": "M.Tech AI/ML",
+        "hobbies": [
+            "reading",
+            "chess",
+            "ambient music",
+            "hiking",
+            "gaming"
+        ],
+        "personality": "INTP",
+        "values": [
+            "intelligence",
+            "freedom",
+            "curiosity",
+            "honesty"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "rarely",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Urdu"
+        ],
+        "bio": "I build neural networks and occasionally break social conventions. I don't do small talk — I skip straight to the questions that keep you up at night. I'm independent to a fault and I need someone who sees that as attractive, not threatening.",
+        "dealBreakers": [
+            "anti-intellectualism",
+            "smoking",
+            "controlling behavior",
+            "wanting marriage too soon"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Zara&backgroundColor=d1d4f9"
+    },
+    {
+        "id": 10,
+        "name": "Aditya Kumar",
+        "age": 27,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Bangalore",
+        "profession": "Startup Founder",
+        "education": "B.Tech + MBA",
+        "hobbies": [
+            "reading",
+            "fitness",
+            "travel",
+            "podcasting",
+            "cooking"
+        ],
+        "personality": "ENTJ",
+        "values": [
+            "ambition",
+            "growth",
+            "disruption",
+            "loyalty"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi",
+            "Tamil"
+        ],
+        "bio": "I raised a seed round and burned through two co-founders before finding the right team. I apply the same rigor to life. I work hard, I play hard, and I invest deeply in people I care about. I need a partner who has their own fire — not someone who lives off mine.",
+        "dealBreakers": [
+            "lack of ambition",
+            "dishonesty",
+            "dependence",
+            "smoking"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Aditya&backgroundColor=ffd5dc"
+    },
+    {
+        "id": 11,
+        "name": "Siya Joshi",
+        "age": 23,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Mumbai",
+        "profession": "Illustrator & Graphic Designer",
+        "education": "BFA Visual Communication",
+        "hobbies": [
+            "painting",
+            "indie music",
+            "yoga",
+            "travel",
+            "baking"
+        ],
+        "personality": "INFP",
+        "values": [
+            "creativity",
+            "authenticity",
+            "emotional depth",
+            "peace"
+        ],
+        "relationshipGoal": "casual-to-serious",
+        "smoking": false,
+        "drinking": "rarely",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi",
+            "Marathi"
+        ],
+        "bio": "I draw things that don't exist yet. I'm soft-spoken but my opinions are loud. I need someone who's emotionally fluent — who can sit with discomfort instead of rushing to fix it. Not looking for perfection. Looking for presence.",
+        "dealBreakers": [
+            "aggression",
+            "emotional unavailability",
+            "smoking",
+            "zero interest in art"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Siya&backgroundColor=b6e3f4"
+    },
+    {
+        "id": 12,
+        "name": "Dev Malhotra",
+        "age": 32,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Delhi",
+        "profession": "Cardiologist",
+        "education": "MBBS + MD Cardiology",
+        "hobbies": [
+            "reading",
+            "long-distance running",
+            "cooking",
+            "chess",
+            "travel"
+        ],
+        "personality": "ISFP",
+        "values": [
+            "health",
+            "family",
+            "empathy",
+            "service"
+        ],
+        "relationshipGoal": "marriage",
+        "smoking": false,
+        "drinking": false,
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "I spend my days keeping hearts going; I'd like to find one that keeps mine. Medicine gave me perspective — nothing trivial survives 12 years of training. I want a partner who wants a full life together: dinners, kids, arguments, and all the ordinary moments in between.",
+        "dealBreakers": [
+            "smoking",
+            "heavy drinking",
+            "childfree lifestyle",
+            "career before everything"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dev&backgroundColor=c0aede"
+    },
+    {
+        "id": 13,
+        "name": "Ananya Bose",
+        "age": 25,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Kolkata",
+        "profession": "Literary Content Writer",
+        "education": "MA English Literature",
+        "hobbies": [
+            "writing",
+            "reading",
+            "classical music",
+            "cooking",
+            "yoga"
+        ],
+        "personality": "ISFJ",
+        "values": [
+            "depth",
+            "empathy",
+            "tradition",
+            "creativity"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "rarely",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi",
+            "Bengali"
+        ],
+        "bio": "I write for a living and overthink for free. My ideal evening is a good book, a bad movie, and someone to argue about both with. I'm rooted in Bengali tradition but I believe good stories transcend geography. I want love that feels like coming home.",
+        "dealBreakers": [
+            "smoking",
+            "aggression",
+            "no reading habit",
+            "purely career-driven mindset"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ananya&backgroundColor=ffdfbf"
+    },
+    {
+        "id": 14,
+        "name": "Samir Desai",
+        "age": 29,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Pune",
+        "profession": "Civil Engineer",
+        "education": "B.E Civil Engineering",
+        "hobbies": [
+            "fitness",
+            "travel",
+            "cooking",
+            "football",
+            "gaming"
+        ],
+        "personality": "ESTJ",
+        "values": [
+            "discipline",
+            "family",
+            "stability",
+            "hard work"
+        ],
+        "relationshipGoal": "marriage",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Marathi",
+            "Gujarati"
+        ],
+        "bio": "I build infrastructure that lasts decades. I want a relationship built the same way — on honest effort, shared goals, and the understanding that love is a daily choice, not a feeling you stumble into. I'm not flashy. I'm reliable. There's a difference.",
+        "dealBreakers": [
+            "smoking",
+            "dishonesty",
+            "excessive independence that excludes partnership",
+            "no desire for children"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Samir&backgroundColor=d1d4f9"
+    },
+    {
+        "id": 15,
+        "name": "Riya Kapoor",
+        "age": 28,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Mumbai",
+        "profession": "Independent Film Director",
+        "education": "FTII Graduate",
+        "hobbies": [
+            "filmmaking",
+            "street photography",
+            "travel",
+            "reading",
+            "live music"
+        ],
+        "personality": "ENFP",
+        "values": [
+            "creative freedom",
+            "authenticity",
+            "social impact",
+            "growth"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "My films don't have neat endings and neither does my life — I think that's a feature. I chase stories that make people uncomfortable in the best way. I need someone who doesn't flinch from complexity and has the emotional range to keep up with me.",
+        "dealBreakers": [
+            "controlling behavior",
+            "conventional thinking",
+            "no creative interests",
+            "wanting to settle too fast"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Riya&backgroundColor=ffd5dc"
+    },
+    {
+        "id": 16,
+        "name": "Ishaan Verma",
+        "age": 26,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Bangalore",
+        "profession": "Music Producer",
+        "education": "Berklee Online — Music Production",
+        "hobbies": [
+            "music production",
+            "travel",
+            "fitness",
+            "cooking",
+            "vinyl collecting"
+        ],
+        "personality": "ENFP",
+        "values": [
+            "creativity",
+            "freedom",
+            "authenticity",
+            "connection"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "I score films, ads, and the occasional wedding — and I treat each one like it matters. Music is how I process the world. I'm emotionally expressive, occasionally chaotic, and deeply loyal. I want someone who can feel things fully without calling it too much.",
+        "dealBreakers": [
+            "emotional suppression",
+            "no appreciation for art",
+            "dishonesty",
+            "workaholism"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ishaan&backgroundColor=b6e3f4"
+    },
+    {
+        "id": 17,
+        "name": "Kavya Rao",
+        "age": 24,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Chennai",
+        "profession": "Sustainable Fashion Designer",
+        "education": "NIFT — Fashion Design",
+        "hobbies": [
+            "fashion design",
+            "travel",
+            "painting",
+            "fitness",
+            "Carnatic music"
+        ],
+        "personality": "ESFJ",
+        "values": [
+            "creativity",
+            "family",
+            "sustainability",
+            "community"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "rarely",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Tamil",
+            "Telugu"
+        ],
+        "bio": "I design clothes that don't cost the earth — literally. My work is rooted in ethics and aesthetics in equal measure. I'm big on family, community, and showing up. I need someone who understands that care is not weakness and presence is the greatest flex.",
+        "dealBreakers": [
+            "smoking",
+            "dishonesty",
+            "disrespecting family",
+            "no environmental awareness"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Kavya&backgroundColor=c0aede"
+    },
+    {
+        "id": 18,
+        "name": "Rahul Saxena",
+        "age": 30,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Mumbai",
+        "profession": "Executive Chef",
+        "education": "Le Cordon Bleu — Culinary Arts",
+        "hobbies": [
+            "cooking",
+            "travel",
+            "fitness",
+            "food photography",
+            "reading"
+        ],
+        "personality": "ESFP",
+        "values": [
+            "joy",
+            "generosity",
+            "family",
+            "sensory experience"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "socially",
+        "pets": true,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "I've fed billionaires and broken bread with strangers on the street — both equally memorable. Food, for me, is love made tangible. I'm loud, warm, and present. I want someone who's not afraid to eat a full meal, disagree loudly, and laugh until it hurts.",
+        "dealBreakers": [
+            "extreme fussiness about food",
+            "emotional coldness",
+            "dishonesty",
+            "no spontaneity"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Rahul&backgroundColor=ffdfbf"
+    },
+    {
+        "id": 19,
+        "name": "Tanya Mishra",
+        "age": 27,
+        "gender": "female",
+        "interestedIn": "male",
+        "city": "Delhi",
+        "profession": "Senior Associate — Corporate Law",
+        "education": "LLB + LLM — NLSIU",
+        "hobbies": [
+            "reading",
+            "debating",
+            "running",
+            "travel",
+            "cooking"
+        ],
+        "personality": "ENTJ",
+        "values": [
+            "justice",
+            "ambition",
+            "intellectual equality",
+            "honesty"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "bio": "I cross-examine arguments the way other people check their phones — constantly, and with intent. I'm career-driven and I make no apologies for it. I need a partner who doesn't feel threatened by a woman who earns well, argues better, and still wants a real relationship.",
+        "dealBreakers": [
+            "fragile ego",
+            "dishonesty",
+            "lack of ambition",
+            "expecting me to deprioritize career"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tanya&backgroundColor=d1d4f9"
+    },
+    {
+        "id": 20,
+        "name": "Nikhil Choudhary",
+        "age": 28,
+        "gender": "male",
+        "interestedIn": "female",
+        "city": "Jaipur",
+        "profession": "Travel & Documentary Photographer",
+        "education": "BFA — Photography",
+        "hobbies": [
+            "photography",
+            "travel",
+            "motorcycling",
+            "reading",
+            "sketching"
+        ],
+        "personality": "ISTP",
+        "values": [
+            "freedom",
+            "solitude",
+            "authenticity",
+            "raw experience"
+        ],
+        "relationshipGoal": "long-term",
+        "smoking": false,
+        "drinking": "occasionally",
+        "pets": false,
+        "languages": [
+            "English",
+            "Hindi",
+            "Rajasthani"
+        ],
+        "bio": "I disappear into the Himalayas for weeks and come back with 4TB of images and a clearer head. I'm not the guy who texts every hour — but I'm the guy who shows up when it counts. I need someone who understands that distance isn't neglect and silence isn't distance.",
+        "dealBreakers": [
+            "clinginess",
+            "need for constant validation",
+            "smoking",
+            "no tolerance for solitude"
+        ],
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nikhil&backgroundColor=ffd5dc"
+    }
+]
